@@ -1,0 +1,327 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/" . "go-tcp-notification/")
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/" . "muzzynine/")
+ ("/Users/impyeong-gang/Workspace/go/src/" . "github.com/")
+ ("/Users/impyeong-gang/Workspace/go/" . "src/")
+ ("/Users/impyeong-gang/Workspace/rasp/" . "adafruit32x16/")
+ ("/Users/" . "impyeong-gang/")
+ ("/Applications/MAMP/htdocs/termProj_final/" . "lib/")
+ ("/Applications/MAMP/htdocs/termProj_modify/" . "component/")
+ ("/Applications/MAMP/htdocs/login/" . "img/")
+ ("/Applications/MAMP/htdocs/termProj/shop/" . "css/")
+ ("/Applications/MAMP/htdocs/termProj/startbootstrap-modern-business-1.0.5/" . "lib/")
+ ("/Applications/MAMP/htdocs/termProj/" . "shop/")
+ ("/Users/impyeong-gang/Downloads/startbootstrap-modern-business-1.0.5/" . "css/")
+ ("/Users/impyeong-gang/Downloads/" . "startbootstrap-modern-business-1.0.5/")
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/" . "client/")
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/" . "stores/")
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/" . "js/")
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/" . "public/")
+ ("/Applications/MAMP/htdocs/8/" . "pratice/")
+ ("/Applications/MAMP/htdocs/" . "termProj_final/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/" . "oauth2orize/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/test/" . "model/")
+ ("/Applications/MAMP/" . "htdocs/")
+ ("/Applications/" . "MAMP/")
+ ("/" . "Users/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/oauth2orize/lib/" . "exchange/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/oauth2orize/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/node_modules/passport-strategy/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/node_modules/" . "passport-strategy/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/passport/lib/" . "strategies/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/passport/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport-http-bearer/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/lib/" . "middleware/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/" . "passport/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/aws-sdk/lib/" . "credentials/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/" . "aws-sdk/")
+ ("/Users/impyeong-gang/Workspace/my/picup-admin/public/" . "js/")
+ ("/Users/impyeong-gang/" . "Workspace/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-notification/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/" . "lib/")
+ ("/Users/impyeong-gang/Workspace/picup_server/" . "picup-notification/")
+ ("/Users/impyeong-gang/Workspace/my/picup-admin/" . "public/")
+ ("/Users/impyeong-gang/Workspace/my/" . "picup-admin/")
+ ("/Users/impyeong-gang/Workspace/" . "go/")
+ ("/Users/impyeong-gang/Workspace/my/picup-admin/public/js/" . "components/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/tcp/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/client/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/"
+ "/Users/impyeong-gang/Workspace/rasp/adafruit32x16/"
+ "/Applications/MAMP/htdocs/termProj_final/lib/"
+ "/Applications/MAMP/htdocs/termProj_final/"
+ "/Applications/MAMP/htdocs/termProj_modify/"
+ "/Applications/MAMP/htdocs/termProj_modify/lib/"
+ "/Applications/MAMP/htdocs/termProj_modify/component/"
+ "/Applications/MAMP/htdocs/termProj/shop/lib/"
+ "/Applications/MAMP/htdocs/termProj_modify/css/"
+ "/Applications/MAMP/htdocs/termProj/shop/css/"
+ "/Applications/MAMP/htdocs/login/lib/"
+ "/Applications/MAMP/htdocs/login/"
+ "/Applications/MAMP/htdocs/login/login/"
+ "/Applications/MAMP/htdocs/termProj/shop/"
+ "/Applications/MAMP/htdocs/termProj/startbootstrap-modern-business-1.0.5/lib/"
+ "/Applications/MAMP/htdocs/termProj/startbootstrap-modern-business-1.0.5/"
+ "/Applications/MAMP/htdocs/termProj/startbootstrap-modern-business-1.0.5/css/"
+ "/Applications/MAMP/htdocs/termProj/"
+ "/Users/impyeong-gang/Downloads/"
+ "/Users/impyeong-gang/Downloads/startbootstrap-modern-business-1.0.5/"
+ "/Users/impyeong-gang/Downloads/startbootstrap-modern-business-1.0.5/css/"
+ "/../Applications/MAMP/htdocs/4/"
+ "/Applications/MAMP/htdocs/9/"
+ "/Applications/MAMP/htdocs/9/member/"
+ "/Users/impyeong-gang/Downloads/Desktop/"
+ "/Users/impyeong-gang/Workspace/job/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/rpc/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/components/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/stores/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/constants/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/view/"
+ "/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/actions/"
+ "/Applications/MAMP/htdocs/8/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-notification/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-notification/lib/"
+ "/Applications/MAMP/htdocs/8/pratice/"
+ "/Applications/MAMP/htdocs/5/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-auth/router/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-auth/model/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-api/lib/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-api/controller/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-notification/config/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-api/config/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-auth/config/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-config/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-api/"
+ "/Users/impyeong-gang/Workspace/picup_server/picup-auth/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "config.go"
+ "protocol.go"
+ "main.go"
+ "server.go"
+ "db.go"
+ "rpc.go"
+ "connection.go"
+ "adafruit32x16.c"
+ "db.php"
+ "item_description.php"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/tcp/" (22365 63299 0 0) "tcp" "signal.go~" "signal.go" "server.go~" "server.go" "rpc.go~" "rpc.go" "protocol.go~" "protocol.go" "main.go~" "main.go" "db.go~" "db.go" "connection.go~" "connection.go" "config.go~" "config.go" ".#connection.go" "#connection.go#" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/client/" (22365 64595 0 0) "signal.go" "protocol.go~" "protocol.go" "main.go~" "main.go" "controller.go~" "controller.go" "config.go~" "config.go" "client.go~" "client.go" "client" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/" (22365 51220 0 0) "web" "signal.go" "server.go~" "server.go" "rpc.go~" "rpc.go" "request.go~" "request.go" "public/" "package.json~" "package.json" "node_modules/" "db.go~" "db.go" "config.go~" "config.go" ".tern-port" ".#rest.go" ".#main.go" ".#db.go" "#rest.go#" "#main.go#" "#db.go#" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/rasp/" (22363 4748 0 0) "adafruit32x16/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/rasp/adafruit32x16/" (22362 57137 0 0) "adafruit32x16.c~" "adafruit32x16.c" "../" "./")
+
+ ("/Users/impyeong-gang/" (22357 28953 0 0) "Workspace/" "Wallpaper/" "Samsung/" "Public/" "Pictures/" "News/" "mykeys/" "Music/" "Movies/" "Mail/" "Library/" "keychain/" "Google Drive/" "go/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc.omz-uninstalled-20151217002940" ".zshrc.omz-uninstalled-20151217002216" ".zshrc" ".zshenv~" ".zshenv" ".zsh_history" ".zsh.prompts/" ".zsh.before/" ".zsh.after/" ".zsh-update" ".zprofile.pysave" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zhistory" ".zcompdump.zwc" ".zcompdump-muzzynine's mac-5.0.6" ".zcompdump" ".zcompcache/" ".yankring-history_v2.txt" ".yadr/" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".wapi/" ".w3m/" ".vimrc.backup" ".vimrc" ".viminfo" ".vim_runtime/" ".vim_mru_files" ".vim.backup/" ".vim-go/" ".vim/" ".v8flags.3.28.71.19.impyeong-gang.json" ".unescaped_colors.rb" ".Trash/" ".tmux.conf" ".test.c.swp" ".svnrepos/" ".subversion/" ".ssh/" ".sh_history" ".rnd" ".rediscli_history" ".recever.c" ".rdebugrc" ".python_history" ".pryrc" ".profile~" ".profile" ".pm2/" ".p2/" ".openvpn-connect.json" ".nvm/" ".npm/" ".node-gyp/" ".newsrc-dribble~" ".newsrc-dribble" ".mongorc.js" ".m2/" ".local/" ".inputrc" ".hgignore_global" ".gvm/" ".gradle/" ".gnus~" ".gnus" ".gitignore" ".gitconfig.backup" ".gitconfig" ".Genymobile/" ".gemrc" ".gem/" ".fontconfig/" ".fasd-init-bash" ".fasd" ".escaped_colors.rb" ".erlang.cookie" ".emacs~" ".emacs_workgroups~" ".emacs_workgroups" ".emacs.d/" ".editrc" ".eclipse/" ".e" ".dvdcss/" ".DS_Store" ".dropbox/" ".docker/" ".dbshell" ".cups/" ".ctags" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_profile" ".bash_history" ".aws/" ".authinfo~" ".authinfo" ".aprc" ".android/" "../" "./")
+
+ ("/Applications/MAMP/htdocs/" (22358 23641 0 0) "termProj_modify.zip" "termProj_modify 2.zip" "termProj_modify/" "termProj_final.zip" "termProj_final/" "termProj.zip" "termProj/" "login/" "9/" "8/" "7/" "5/" "4/" "3/" "2009135103/" ".DS_Store" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj_final/" (22358 25406 0 0) "registration.php~" "registration.php" "order.php~" "order.php" "memo/" "member_modify.php~" "member_modify.php" "member.sql" "lookbook.php~" "lookbook.php" "login.php~" "login.php" "lib/" "js/" "item_gallery.php~" "item_gallery.php" "item_description.php~" "item_description.php" "item.sql" "introduce.php" "index.php~" "index.php" "img/" "fonts/" "font-awesome/" "css/" "contact.php~" "contact.php" "component/" "cart.php~" "cart.php" "bin/" "backup/" ".DS_Store" ".#registration.php" "#registration.php#" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj_final/lib/" (22358 17849 0 0) "remove_cart.php~" "remove_cart.php" "order.php~" "order.php" "member_modify.php" "member_logout.php" "member_login.php~" "member_login.php" "member_insert.php~" "member_insert.php" "db.php~" "db.php" "add_cart.php~" "add_cart.php" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj_modify/" (22358 16998 0 0) "registration.php~" "registration.php" "order.php~" "order.php" "member_modify.php~" "member_modify.php" "member.sql" "login.php~" "login.php" "lib/" "js/" "item_gallery.php~" "item_gallery.php" "item_description.php~" "item_description.php" "item.sql" "item backup.txt" "index.php~" "index.php" "img/" "gray/" "fonts/" "font-awesome/" "css/" "contact.php~" "contact.php" "component/" "cart.php~" "cart.php" "bin/" ".DS_Store" ".#registration.php" "#registration.php#" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj_modify/lib/" (22358 17042 0 0) "remove_cart.php~" "remove_cart.php" "order.php~" "order.php" "member_modify.php" "member_logout.php" "member_login.php~" "member_login.php" "member_insert.php~" "member_insert.php" "db.php~" "db.php" "add_cart.php~" "add_cart.php" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj_modify/component/" (22357 39407 0 0) "nav2.php" "nav1.php~" "nav1.php" "hot_item.php~" "hot_item.php" "footer.php" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/shop/lib/" (22357 32691 0 0) "remove_cart.php~" "remove_cart.php" "member_modify.php~" "member_modify.php" "member_logout.php" "member_login.php~" "member_login.php" "member_insert.php~" "member_insert.php" "db.php~" "db.php" "add_cart.php~" "add_cart.php" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/shop/" (22357 30796 0 0) "registration.php" "login.php" "lib/" "js/" "item_gallery.php~" "item_gallery.php" "item_description.php" "index.php~" "index.php" "fonts/" "font-awesome/" "css/" "contact.php" "cart.php~" "cart.php" "bin/" ".DS_Store" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj_modify/css/" (22357 29504 0 0) "modern-business.css~" "modern-business.css" "login.css" "cart.css~" "cart.css" "bootstrap.min.css" "bootstrap.css" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/shop/css/" (22357 28059 0 0) "modern-business.css~" "modern-business.css" "login.css" "cart.css~" "cart.css" "bootstrap.min.css" "bootstrap.css" "../" "./")
+
+ ("/Users/impyeong-gang/Downloads/" (22357 26146 0 0) "수강신청_및_정정신청서(양식).hwp" "디바이스_드라이버_만들기.pdf" "³í¸®¿Í ºñÆÇÀû »ç°í 2014-1ÇÐ±â.pdf" "termProj_modify.zip" "termProj_modify/" "startbootstrap-modern-business-1.0.5.zip" "source.zip" "source/" "sequel-pro-1.1.2.dmg" "runtext.ppm" "MSPTermProj/" "MSPTerm/" "MSP_Project.pdf" "MSP_Project (1).pdf" "MSP14DutyCyclingStepMonitor.zip" "MSP14DutyCyclingStepMonitor 2/" "MSP14DutyCyclingStepMonitor (1).zip" "MSP14DutyCyclingStepMonitor/" "MouseRecorder.zip" "MouseRecorder.app/" "login.zip" "login/" "KakaoTalk_Photo_2016-06-06-19-09-47_31.png" "KakaoTalk_Photo_2016-06-06-18-35-21_62.jpeg" "getip.zip" "getip/" "dvrns.zip" "DVRNS interface specification 2.0.pdf" "dvrns/" "Desktop.zip" "Desktop/" "ÀÓº£µðµå°-ÀÇÀÚ·á-20160311.zip" "ÀÓº£µðµå°-ÀÇÀÚ·á-20160311/" "2016학년도 하계계절수업 수강신청 및 등록안내_배포용.hwp" "2016학년도 하계계절수업 개설강좌 내역_공고용.xls" "2016-1-MobileSystemProgramming%28과제2-Encounter%29.pdf" "2016-1-MobileSystemProgramming%28과제1-근접경보%29.pdf" "2014_논술_인문사회 예시답안_4차_(사회과학계,커뮤니케이션학부).pdf" "2010136045_문건우_9.hwp" "2010136045_문건우_8.hwp" "2010136045_문건우_8 (1).hwp" "2009160139_이준민_0607.hwp" "10.Energy-efficient Mobile Sensing System Design-4.pdf" "10.Energy-efficient Mobile Sensing System Design-3.pdf" "06_1.hwp" "03.kernel_device_model_print용.pdf" ".localized" ".DS_Store" "(필독) kernel_include_linux_Init_h 파일 분석.pdf" "../" "./")
+
+ ("/Applications/MAMP/htdocs/login/login/" (22357 23487 0 0) "modify.php" "member_form_modify.php~" "member_form_modify.php" "logout.php" "login_form.php" "login.php" "img/" "../" "./")
+
+ ("/Applications/MAMP/htdocs/login/lib/" (22357 23583 0 0) "top_menu2.php~" "top_menu2.php" "top_menu1.php" "top_login2.php~" "top_login2.php" "top_login1.php" "left_menu.php" "index.php" "img/" "func.php" "dbconn.php~" "dbconn.php" "../" "./")
+
+ ("/Applications/MAMP/htdocs/login/" (22357 24825 0 0) "member/" "login/" "lib/" "index.php" "img/" "css/" ".#index.php" "#index.php#" "../" "./")
+
+ ("/Applications/MAMP/htdocs/login/img/" (22357 21834 0 0) "write_form_title.gif" "write.png" "title_survey.gif" "title_qna.gif" "title_memo.gif" "title_membership.gif" "title_member_modify.gif" "title_login.gif" "title_left_menu.gif" "title_latest2.gif" "title_latest1.gif" "title_join.psd" "title_join.gif" "title_greet.gif" "title_free.gif" "title_download.gif" "title_concert.gif" "title_comment.gif" "select_search.gif" "ripple_view.gif" "ripple.png" "response.png" "pw_title.gif" "ok_ripple.gif" "ok.png" "no_join.gif" "moto.gif" "modify.png" "menu07.gif" "menu06.gif" "menu05.gif" "menu04.gif" "menu03.gif" "menu02.gif" "menu01.gif" "memo_ripple_button.png" "memo_button.gif" "member02.gif" "member01.gif" "main_img.jpg" "main_bg.gif" "logo.gif" "login_msg.gif" "login_key.gif" "login_button.gif" "list_top_title.gif" "list_title5.gif" "list_title4.gif" "list_title3.gif" "list_title2.gif" "list_title1.gif" "list_search_button.gif" "list.png" "join_button.gif" "id_title.gif" "delete.png" "concert5.jpg" "concert4.jpg" "concert3.jpg" "concert2.jpg" "concert1.jpg" "close.gif" "check_id.gif" "button_save.gif" "button_reset.gif" "bbs_poll.gif" "b_vote.gif" "b_result.gif" "../" "./")
+
+ ("/Applications/MAMP/htdocs/login/member/" (22357 22000 0 0) "member_form.php" "member.sql" "insert.php~" "insert.php" "check_nick.php" "check_id.php~" "check_id.php" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/" (22356 17647 0 0) "shop/" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/startbootstrap-modern-business-1.0.5/" (22356 16180 0 0) "test.php~" "test.php" "sidebar.html" "services.html" "registration.php~" "registration.php" "README.md" "pricing.html" "portfolio-item.html" "portfolio-4-col.html" "portfolio-3-col.html~" "portfolio-3-col.html" "portfolio-2-col.html" "portfolio-1-col.html~" "portfolio-1-col.html" "member_login.php~" "member_insert.php~" "member_insert.php" "login.php~" "login.php" "LICENSE" "lib/" "js/" "item_gallery.php~" "item_gallery.php" "item_description.php~" "item_description.php" "index.php~" "index.php" "full-width.html" "fonts/" "font-awesome/" "faq.html" "css/" "contact.php~" "contact.php" "contact.html~" "contact.html" "cart.php~" "cart.php" "blog-post.html" "blog-home-2.html" "blog-home-1.html" "bin/" "about.php" "404.html" ".DS_Store" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/startbootstrap-modern-business-1.0.5/lib/" (22356 14299 0 0) "remove_cart.php~" "remove_cart.php" "member_logout.php" "member_login.php~" "member_login.php" "member_insert.php~" "member_insert.php" "db.php~" "db.php" "add_cart.php~" "add_cart.php" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/startbootstrap-modern-business-1.0.5/css/" (22356 13008 0 0) "modern-business.css~" "modern-business.css" "login.css" "cart.css~" "cart.css" "bootstrap.min.css" "bootstrap.css" "../" "./")
+
+ ("/Applications/MAMP/htdocs/termProj/lib/" (22355 56609 0 0) "member_logout.php~" "member_logout.php" "db.php~" "db.php" "../" "./")
+
+ ("/Users/impyeong-gang/.emacs.d/" (22341 34334 0 0) "vendor/" "themes/" "packages.el~" "init.el" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "ac-comphist.dat" ".git/" ".emacs_workgroups~" ".emacs_workgroups" ".emacs.d/" "../" "./")
+
+ ("/Users/impyeong-gang/.emacs.d/elpa/" (22354 46460 0 0) "workgroups2-readme.txt" "workgroups2-20141102.1122/" "with-editor-20160128.1201/" "websocket-20160227.2122/" "tern-auto-complete-20151123.653/" "tern-20151228.511/" "skewer-mode-readme.txt" "skewer-mode-20150914.1304/" "simple-httpd-20150430.1755/" "seq-1.11/" "s-20160115.58/" "popup-20151222.1339/" "pkg-info-20150517.443/" "php-mode-readme.txt" "php-mode-20160526.425/" "nvm-20151113.55/" "markdown-toc-readme.txt" "markdown-preview-mode-readme.txt" "markdown-preview-mode-20160215.849/" "markdown-preview-eww-readme.txt" "markdown-preview-eww-20160111.702/" "markdown-mode-readme.txt" "markdown-mode-20160312.2335/" "markdown-mode-20160211.50/" "magit-readme.txt" "magit-popup-20160130.649/" "magit-20160213.1818/" "let-alist-1.0.4/" "jsx-mode-readme.txt" "jsx-mode-20130908.1024/" "json-snatcher-20150511.2047/" "json-reformat-20160212.53/" "json-mode-readme.txt" "json-mode-20151116.2000/" "js2-mode-readme.txt" "js2-mode-20160124.1132/" "js-comint-readme.txt" "js-comint-20151126.1838/" "hlinum-20150621.1933/" "google-this-readme.txt" "google-this-20150522.240/" "google-readme.txt" "go-mode-20160208.1210/" "go-errcheck-20150828.1135/" "go-complete-readme.txt" "go-autocomplete-20150903.1940/" "git-commit-20160130.649/" "flycheck-readme.txt" "flycheck-gometalinter-readme.txt" "flycheck-20160208.706/" "f-20151113.123/" "exec-path-from-shell-readme.txt" "exec-path-from-shell-20160112.2246/" "epl-20150517.433/" "dash-functional-20150828.413/" "dash-20151216.1315/" "auto-complete-readme.txt" "auto-complete-c-headers-readme.txt" "auto-complete-auctex-readme.txt" "auto-complete-20160107.8/" "async-20160108.1249/" "archives/" "anaphora-20140728.1536/" "../" "./")
+
+ ("/Users/impyeong-gang/.emacs.d/elpa/php-mode-20160526.425/" (22354 46488 0 0) "php-xmlreader.elc" "php-xmlreader.el" "php-xmlparser.elc" "php-xmlparser.el" "php-var.elc" "php-var.el" "php-strings.elc" "php-strings.el" "php-simplexml.elc" "php-simplexml.el" "php-regex.elc" "php-regex.el" "php-pcre.elc" "php-pcre.el" "php-mode.elc" "php-mode.el" "php-mode-pkg.el" "php-mode-autoloads.el~" "php-mode-autoloads.el" "php-math.elc" "php-math.el" "php-gd.elc" "php-gd.el" "php-filesystem.elc" "php-filesystem.el" "php-ext.elc" "php-ext.el" "php-exif.elc" "php-exif.el" "php-exceptions.elc" "php-exceptions.el" "php-dom.elc" "php-dom.el" "php-dio.elc" "php-dio.el" "php-crack.elc" "php-crack.el" "php-control-structures.elc" "php-control-structures.el" "php-classobj.elc" "php-classobj.el" "php-array.elc" "php-array.el" "../" "./")
+
+ ("/../Applications/MAMP/htdocs/4/" (22354 46466 0 0) "4_9.php~" "4_9.php" "4_8.php" "4_7.php~" "4_7.php" "4_6.php~" "4_6.php" "4_3.php~" "4_3.php" "4_13.php" "4_12.php~" "4_12.php" "4_11.php~" "4_11.php" "4_10.php~" "4_10.php" "4_1.php~" "4_1.php" "../" "./")
+
+ ("/Applications/" (22353 41116 0 0) "Xcode.app/" "XChat Azure.app/" "Wallpapers.app/" "VLC.app/" "VirtualBox.app/" "uTorrent.app/" "Utilities/" "Tunnelblick.app/" "Time Machine.app/" "The Unarchiver.app/" "TextEdit.app/" "TeamViewer.app/" "System Preferences.app/" "Sublime Text 2.app/" "Stickies.app/" "StarUML.app/" "SourceTree.app/" "Smart Switch/" "Slack.app/" "SDFormatter.app/" "Safari.app/" "Resizer.app/" "Repeater.app/" "Reminders.app/" "QuickTime Player.app/" "Quick View Lite.app/" "Python 3.4/" "Preview.app/" "Photos.app/" "PhotoConvert Lite.app/" "Photo Booth.app/" "Pages.app/" "OpenVPN/" "Numbers.app/" "Notes.app/" "myTuner Radio Free.app/" "Mission Control.app/" "Messages.app/" "MathMagic Lite/" "Maps.app/" "MAMP PRO/" "MAMP/" "Mail.app/" "MacVim.app/" "LimeChat.app/" "Launchpad.app/" "Keynote.app/" "Karabiner.app/" "KakaoTalk.app/" "iTunes.app/" "iTerm.app/" "iPhoto.app/" "Intel(R) Software Manager.app/" "iMovie.app/" "iMage Quick Viewer Lite.app/" "Image Capture.app/" "iBooks.app/" "HwpMac2014VIEWER.app/" "HP/" "Hewlett-Packard/" "GoToMeeting.app/" "GoToMeeting/" "Google Chrome.app/" "GarageBand.app/" "Game Center.app/" "Font Book.app/" "Flip4Mac/" "Flip Player.app/" "FaceTime.app/" "Emacs.app/" "DVD Player.app/" "Dropbox.app/" "Docker/" "Dictionary.app/" "Dashboard.app/" "Contacts.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Caffeine.app/" "Batch Image Resizer Lite.app/" "Automator.app/" "App Store.app/" "Android Studio.app/" "AhnLab/" "Adobe/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Downloads/startbootstrap-modern-business-1.0.5/css/" (22122 7472 0 0) "modern-business.css" "bootstrap.min.css" "bootstrap.css" "../" "./")
+
+ ("/Users/impyeong-gang/Downloads/startbootstrap-modern-business-1.0.5/" (22354 46082 0 0) "sidebar.html" "services.html" "README.md" "pricing.html" "portfolio-item.html" "portfolio-4-col.html" "portfolio-3-col.html" "portfolio-2-col.html" "portfolio-1-col.html" "LICENSE" "js/" "index.html" "full-width.html" "fonts/" "font-awesome/" "faq.html" "css/" "contact.html" "blog-post.html" "blog-home-2.html" "blog-home-1.html" "bin/" "about.html" "404.html" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Downloads/Desktop/" (22348 13034 0 0) "signserver.c" "signclient.c" ".#signserver.c" "#signserver.c#" "../" "./")
+
+ ("/Applications/MAMP/htdocs/9/" (22349 7576 0 0) "top_menu2.php" "top_menu1.php" "top_login2.php" "top_login1.php" "member/" "lib/" "left_menu.php" "img/" "func.php" "dbconn.php~" "dbconn.php" "css/" ".DS_Store" ".#dbconn.php" "#dbconn.php#" "../" "./")
+
+ ("/Applications/MAMP/htdocs/2009135103/" (22263 44293 0 0) "var.php" "sum_5.php" "replace.php" "homework/" "helloworld.php" "hello2.php" "fee.php~" "fee.php" "echo.php" "dot.php" "comment.php" "arith.php" ".DS_Store" "../" "./")
+
+ ("/Applications/MAMP/htdocs/9/member/" (22348 13432 0 0) "member_form.php" "member.sql" "insert.php~" "insert.php" "check_nick.php" "check_id.php~" "check_id.php" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/" (22344 26649 0 0) "study/" "rasp/" "picup_server/" "org/" "my/" "go/" "github/" "app-debug-unaligned" "app-debug" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/job/" (22344 26629 0 0) "sftp-config.json" "Rules.make" "Makefile" "install.sh" "ddvrls_main.o" "ddvrls_main.c" "ddvrls.o" "ddvrls.i" "ddvrls.h" "ddvrls.c" "ddvrls" "common.o" "common.h" "common.c~" "common.c" "carrays.i" ".#ddvrls_main.c" "#ddvrls_main.c#" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/view/" (22341 55550 0 0) "SearchView.react.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/stores/" (22341 58541 0 0) "AdminApplicationStore.js~" "AdminApplicationStore.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/components/" (22341 58483 0 0) "userRow.react.js~" "userRow.react.js" "userInfoTableHeader.react.js~" "userInfoTableHeader.react.js" "userInfoTable.react.js~" "userInfoTable.react.js" "UserDescription.react.js~" "UserDescription.react.js" "UpdateMessageModal.react.js~" "UpdateMessageModal.react.js" "registerModal.react.js~" "registerModal.react.js" "filterableUserTable.react.js~" "filterableUserTable.react.js" "deleteMessageModal.react.js~" "deleteMessageModal.react.js" "AddMessageModal.react.js~" "AddMessageModal.react.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/" (22343 11997 0 0) "src/" "pkg/" "bin/" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/" (22343 11997 0 0) "golang.org/" "github.com/" "9fans.net/" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/" (22343 12002 0 0) "satori/" "rogpeppe/" "nsf/" "muzzynine/" "kisielk/" "jstemmer/" "jinzhu/" "golang/" "go-sql-driver/" "dougm/" "docker/" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/" (22343 12008 0 0) "pratice_go/" "go-tcp-notification/" "algo/" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/" (22343 12013 0 0) "web/" "tcp.zip" "tcp/" "rpc/" "client/" ".git/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/actions/" (22341 57780 0 0) "AdminAppActions.js~" "AdminAppActions.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/rpc/" (22341 58254 0 0) "rpc.go~" "rpc.go" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/constants/" (22341 56726 0 0) "AdminAppConstants.js~" "AdminAppConstants.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/model_migration/" (22340 17042 0 0) "user.js" "scheme.js" "pushRegistration.js" "nodeMeta.js" "nodeDelta.js" "node.js" "index.js" "group.js" "delta.js" "client.js" "ban.js" "auth.js" "accessToken.js" ".#nodeDelta.js" ".#node.js" "#nodeDelta.js#" "#node.js#" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/config/" (22332 4329 0 0) "prod_env.js" "dev_env.js" "config.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/config/" (22332 4319 0 0) "prod_env.js" "dev_env.js" "config.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-notification/config/" (22332 4362 0 0) "prod_env.js" "dev_env.js" "config.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/controller/" (22331 15794 0 0) "membershipController.js" "groupController.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/lib/" (22331 15794 0 0) "validator.js" "validation.js" "sync.js" "statusError.js" "session.js" "mq.js" "logger.js" "awsS3.js" "auth.js" "appError.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/model/" (22332 4325 0 0) "user.js" "scheme.js" "pushRegistration.js" "index.js" "group.js" "delta.js" "client.js" "ban.js" "auth.js~" "auth.js" "accessToken.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/router/" (22332 4325 0 0) "verifyRouter.js" "oauthRouter.js" "membershipRouter.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/" (22332 4325 0 0) "statusError.js" "session.js" "oauth2orize/" "oauth2.js" "logger.js" "kakao.js" "facebook.js" "define.js" "auth.js" "appError.js" "../" "./")
+
+ ("/Applications/MAMP/htdocs/8/pratice/" (22341 43434 0 0) "3.php~" "3.php" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-notification/" (22329 51145 0 0) "worker.js" "router.js" "README.md" "package.json" "node_modules/" "model_migration/" "message.js" "lib/" "Dockerfile" "config/" "app.js" ".tern-port" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/js/" (22339 61594 0 0) "view/" "stores/" "services/" "index.js~" "index.js" "constants/" "components/" "bundle.js" "actions/" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/go/src/github.com/muzzynine/go-tcp-notification/web/public/" (22339 13100 0 0) "js/" "index.html~" "index.html" "css/" "../" "./")
+
+ ("/Applications/MAMP/htdocs/8/" (22341 41041 0 0) "pratice/" "8.php" "7.php" "6.php" "5.php" "4.php" "3.php" "2.php" ".#8.php" "#8.php#" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-notification/lib/" (22329 51057 0 0) "statusError.js" "mq.js" "logger.js" "gcm.js" "appError.js" ".tern-port" "../" "./")
+
+ ("/Applications/MAMP/htdocs/5/" (22329 48491 0 0) "6.php~" "6.php" "5_4.php~" "5_4.php" "5.php~" "5.php" "4.php~" "4.php" "3.php~" "3.php" "2.php~" "2.php" "1.php~" "1.php" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-notification/model_migration/" (22328 27063 0 0) "user.js" "scheme.js" "pushRegistration.js" "index.js" "group.js" "delta.js" "client.js" "ban.js" "auth.js" "accessToken.js" ".tern-port" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/amqp/" (22327 29516 0 0) "exchange.js" "amqp.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/aws-sdk/" (22327 11989 0 0) "UPGRADING.md" "testem.json" "scripts/" "README.md" "package.json" "NOTICE.txt" "node_modules/" "LICENSE.txt" "lib/" "index.js" "dist-tools/" "dist/" "CONTRIBUTING.md" "bower.json" "apis/" ".npmignore" ".jshintrc" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/aws-sdk/lib/" (22327 12023 0 0) "xml/" "util.js" "state_machine.js" "signers/" "services.js" "services/" "service.js" "sequential_executor.js" "s3/" "response.js" "resource_waiter.js" "request.js" "region_config.json" "region_config.js" "query/" "protocol/" "param_validator.js" "model/" "metadata_service.js" "json/" "http.js" "http/" "event_listeners.js" "dynamodb/" "credentials.js" "credentials/" "core.js" "config.js" "cloudfront/" "browser.js" "aws.js" "api_loader.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/oauth2orize/lib/exchange/" (22327 21391 0 0) "refreshToken.js" "password.js" "clientCredentials.js" "authorizationCode.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/router/" (22328 26244 0 0) "router.js" "membershipRouter.js" "inviteRouter.js" "grpRouter.js" "../" "./")
+
+ ("/Users/impyeong-gang/Applications/" (22256 4355 0 0) "Zeplin.app/" "Rust.app/" "GoToMeeting (2128).app/" "GitHub Desktop.app/" "Chrome Apps.localized/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-config/" (22328 28248 0 0) "picup-rProxy-userdata" "picup-rProxy-run-inst.json" "picup-notification-userdata" "picup-notification-run-inst.json" "picup-ecs.config" "picup-ecs-userdata" "picup-auth-userdata~" "picup-auth-userdata" "picup-auth-run-inst.json" "picup-api-userdata" "picup-api-run-inst.json" "nginx.conf" ".tern-port" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-notification/.git/" (22328 48444 0 0) "rr-cache/" "refs/" "packed-refs" "ORIG_HEAD" "objects/" "MERGE_RR" "logs/" "info/" "index" "hooks/" "HEAD" "FETCH_HEAD" "description" "config" "COMMIT_EDITMSG" "branches/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/.git/" (22328 44411 0 0) "rr-cache/" "refs/" "packed-refs" "ORIG_HEAD" "objects/" "MERGE_RR" "logs/" "lfs/" "info/" "index" "hooks/" "HEAD" "FETCH_HEAD" "description" "config" "COMMIT_EDITMSG~" "COMMIT_EDITMSG" "branches/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/" (22328 41807 0 0) "views/" "utils/" "test/" "router/" "README.md" "package.json" "node_modules/" "model_migration/" "lib/" "Dockerfile" "controller/" "config/" "bin/" "app.js" "amqp/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/" (22328 29872 0 0) "util/" "test/" "router/" "README.md" "package.json" "node_modules/" "model/" "lib/" "Dockerfile" "credential.json" "config/" "app.js" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/" (22327 27560 0 0) "redis/" "rabbitmq/" "picup-rProxy/" "picup-notification/" "picup-config/" "picup-auth/" "picup-api/" "mongodb/" "doc/" "deploy/" "app.js" ".DS_Store" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/" (22326 1270 0 0) "vogels/" "validate.js/" "squiss/" "should/" "sequelize/" "redis/" "passport-http-bearer/" "passport-http/" "passport/" "node-uuid/" "mysql/" "morgan/" "mocha/" "lodash/" "jshint/" "joi/" "express-session/" "express/" "ejs/" "dynamoose/" "cookie-parser/" "connect-redis/" "bunyan-cloudwatch/" "bunyan/" "body-parser/" "bluebird/" "aws-sdk/" "amqplib/" ".bin/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/test/model/" (22323 20039 0 0) "nodeMeta.test.js" "nodeDelta.test.js" "node.test.js" "group.test.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/util/" (22308 35950 0 0) "utils.js" "tokenizer.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/passport/lib/" (22308 19780 0 0) "strategies/" "middleware/" "index.js" "http/" "framework/" "errors/" "authenticator.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/utils/" (22301 342 0 0) "utils.js" ".tern-port" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/test/" (22242 61498 0 0) "model/" "mocha.opts" "lib/" "controller/" "bin/" "../" "./")
+
+ ("/../Applications/MAMP/htdocs/" (22266 4116 0 0) "3/" "2009135103/" ".DS_Store" "../" "./")
+
+ ("/Applications/MAMP/" (22263 39943 0 0) "お読みください.rtf" "прочти.rtf" "tmp/" "README.rtf" "MAMP.app/" "logs/" "LISEZ-MOI.rtf" "LIESMICH.rtf" "licences/" "Library/" "LEAME.rtf" "Icon
+" "htdocs/" "fcgi-bin/" "db/" "conf/" "cgi-bin/" "bin/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22029 37422 0 0) "Shared/" "impyeong-gang/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/lib/middleware/" (22294 27966 0 0) "initialize.js" "authenticate.js~" "authenticate.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/express/" (22294 38440 0 0) "Readme.md" "package.json" "node_modules/" "LICENSE" "lib/" "index.js" "History.md" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-api/node_modules/express/lib/" (22294 64626 0 0) "view.js" "utils.js" "router/" "response.js" "request.js" "middleware/" "express.js" "application.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/oauth2orize/lib/" (22278 24558 0 0) "utils.js" "unorderedlist.js" "server.js" "response/" "middleware/" "index.js" "grant/" "exchange/" "errors/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/lib/oauth2orize/" (22242 62887 0 0) "README.md" "package.json" "node_modules/" "LICENSE" "lib/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/lib/" (22294 25896 0 0) "strategies/" "middleware/" "index.js" "http/" "framework/" "errors/" "authenticator.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/" (22294 25890 0 0) "package.json" "node_modules/" "LICENSE" "lib/" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport-http-bearer/lib/" (22294 23241 0 0) "strategy.js~" "strategy.js" "index.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/node_modules/passport-strategy/lib/" (22294 22430 0 0) "strategy.js" "index.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/lib/strategies/" (22294 21105 0 0) "session.js" "../" "./")
+
+ ("/Users/impyeong-gang/Workspace/picup_server/picup-auth/node_modules/passport/node_modules/passport-strategy/" (22270 33177 0 0) "README.md" "package.json" "LICENSE" "lib/" ".travis.yml" ".jshintrc" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

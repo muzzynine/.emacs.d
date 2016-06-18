@@ -21,6 +21,30 @@
 (ac-config-default)
 
 ;;---------------------------
+;; Linum-mode activate
+;;---------------------------
+(global-linum-mode 1)
+
+;;---------------------------
+;; worksgroup2
+;;---------------------------
+(require 'workgroups2)
+(setq wg-session-file "~/.emacs.d/.emacs_workgroups")
+(workgroups-mode 1)
+
+;;---------------------------
+;; IDO enable
+;;---------------------------
+(require 'ido)
+(ido-mode t)
+
+;;---------------------------
+;; hlinum active
+;;---------------------------
+(require 'hlinum)
+(hlinum-activate)
+
+;;---------------------------
 ;; Auto-complete setup(go-autocomplete)
 ;;---------------------------
 (require 'go-autocomplete)
@@ -45,6 +69,11 @@
 ;;---------------------------
 ;; markdown edit setup
 ;;---------------------------
+(autoload 'markdown-mode "markdown-mode"
+   "Major mode for editing Markdown files" t)
+(add-to-list 'auto-mode-alist '("\\.text\\'" . markdown-mode))
+(add-to-list 'auto-mode-alist '("\\.markdown\\'" . markdown-mode))
+(add-to-list 'auto-mode-alist '("\\.md\\'" . markdown-mode))
 
 ;;---------------------------
 ;; org-mode setup
@@ -55,6 +84,8 @@
 (setq org-log-done t)
 
 (setq org-agenda-files (list "~/Workspace/org/agenda"))
+(setq org-todo-keywords
+      '((sequence "TODO" "IN-PROGRESS" "WAITING" "DONE")))
 
 ;;---------------------------
 ;; theme setup
